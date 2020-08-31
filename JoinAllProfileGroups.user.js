@@ -8,7 +8,7 @@
 // @description 31.08.2020, 19:50:59
 // ==/UserScript==
 
-const DFM_JG=()=>{
+function DFM_JG(){
   $J.get(location.href+'?xml=1').done(d=>{
     $J(d).find('groupID64').each((i,e)=>{
         $J.post('https://steamcommunity.com/gid/'+$J(e).text(),
