@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Join/Leave All Groups on Profile
 // @grant       none
-// @include     https://steamcommunity.com/profiles/*
-// @include     https://steamcommunity.com/id/*
+// @match     *://steamcommunity.com/profiles/*
+// @match     *://steamcommunity.com/id/*
 // @version     1.2
 // @author      David Macintosh
 // @description 31.08.2020, 19:50:59
