@@ -4,7 +4,7 @@ Here's a list of useful user scripts to make Steam easier to use!
 ## How to use these?
 First and most important - Install a user script manager on your web browser...
 
-Tampermonkey fpr Chrome:
+Tampermonkey for Chrome:
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
