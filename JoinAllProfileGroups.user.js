@@ -4,7 +4,7 @@
 // @include     https://steamcommunity.com/profiles/*
 // @include     https://steamcommunity.com/id/*
 // @version     1.0
-// @author      David Mac
+// @author      David Macintosh
 // @description 31.08.2020, 19:50:59
 // ==/UserScript==
 
