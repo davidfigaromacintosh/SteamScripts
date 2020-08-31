@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Join/Leaves All Profile Groups
+// @name        Join/Leave All Groups on Profile
 // @grant       none
 // @include     https://steamcommunity.com/profiles/*
 // @include     https://steamcommunity.com/id/*
